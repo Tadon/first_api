@@ -34,7 +34,7 @@ def get_weather(latitude,longitude, api_key):
     print(f"The weather in {location} is {conditions} at {temperature} Farenheit.")
 #main function   
 country_code = 'US'
-api_key = "bb5ee86038e5df334041bc8baaf0c72f"
+api_key = "enter api key here"
 
 while True:
     
